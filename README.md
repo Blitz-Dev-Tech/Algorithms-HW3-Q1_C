@@ -1,2 +1,2 @@
 # Algorithms-HW3-Q1_C
-# Authors: Ofir Blitzblau, Dabiel Banilov
+# Authors: Ofir Blitzblau, Daniel Blinov
